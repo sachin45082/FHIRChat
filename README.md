@@ -1,4 +1,4 @@
-# Health GPT - A medical chatbot
+# Health GPT - Interactive EMR POC
 
 The Health GPT chatbot is your personalized health assistant, powered by advanced GenAI. It simplifies accessing healthcare information by understanding natural language queries, offering prompt responses, and providing comprehensive insights. With its intuitive interface and cutting-edge technology, Health GPT empowers users to make informed decisions and promotes better health outcomes.
 
